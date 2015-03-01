@@ -1,0 +1,11 @@
+E:\work\zgames\Jumpy Jumpy\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\work\zgames\Jumpy Jumpy\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\work\zgames\Jumpy Jumpy\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\work\zgames\Jumpy Jumpy\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\work\zgames\Jumpy Jumpy\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\work\zgames\Jumpy Jumpy\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\work\zgames\Jumpy Jumpy\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\work\zgames\Jumpy Jumpy\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\work\zgames\Jumpy Jumpy\obj\Debug\UnityVS.Jumpy Jumpy.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\work\zgames\Jumpy Jumpy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\work\zgames\Jumpy Jumpy\obj\Debug\Assembly-CSharp-firstpass.pdb

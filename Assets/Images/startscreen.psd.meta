@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 5fc9aa2001da461449f02ddc98943b8b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: box
+    21300002: title
+    21300004: button
+    21300006: startscreen_3
+    21300008: startscreen_4
+    21300010: startscreen_5
+    21300012: bt_left
+    21300014: bt_right
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: box
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 19
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: title
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 176
+        width: 151
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 140
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: startscreen_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 114
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: startscreen_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 87
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: startscreen_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 61
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bt_left
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 9
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bt_right
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 9
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
